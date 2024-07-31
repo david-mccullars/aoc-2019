@@ -1,0 +1,10 @@
+.env
+debug/
+target/
+
+data/inputs/*
+!data/inputs/.keep
+data/puzzles/*
+!data/puzzles/.keep
+dhat-heap.json
+data/timings.json
