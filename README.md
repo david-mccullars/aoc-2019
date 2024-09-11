@@ -27,6 +27,7 @@
 | [Day 22](./src/bin/22.rs) | `95.8µs` | `32.8µs` |
 | [Day 23](./src/bin/23.rs) | `2.0ms` | `3.4ms` |
 | [Day 24](./src/bin/24.rs) | `18.0µs` | `50.2ms` |
+| [Day 25](./src/bin/25.rs) | `36.4ms` | `18.0ns` |
 
-**Total: 246.92ms**
+**Total: 283.32ms**
 <!--- benchmarking table --->
