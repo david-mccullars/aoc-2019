@@ -9,6 +9,7 @@ use std::fmt::Display;
 mod digits;
 mod direction;
 mod graph;
+mod intcode;
 mod line_segment;
 mod maps;
 
@@ -17,6 +18,7 @@ pub use aoc_parse::{parser, prelude::*, ParseIter};
 pub use digits::*;
 pub use direction::*;
 pub use graph::*;
+pub use intcode::*;
 pub use line_segment::*;
 pub use maps::*;
 
